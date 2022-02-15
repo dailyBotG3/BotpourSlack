@@ -1,0 +1,25 @@
+{
+  "name": "botpourslack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailyBotG3/BotpourSlack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dailyBotG3/BotpourSlack/issues"
+  },
+  "homepage": "https://github.com/dailyBotG3/BotpourSlack#readme",
+  "dependencies": {
+    "@slack/rtm-api": "^6.0.0",
+    "@slack/web-api": "^6.6.0",
+    "esm": "^3.2.25"
+  }
+}
